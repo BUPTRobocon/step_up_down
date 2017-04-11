@@ -1,0 +1,8 @@
+/Histroy/
+*.rar
+
+
+!README.md
+!step_up_down.PrjPcb
+!step_up_down.PrjPcbStructure
+!step_up_down.SchDoc

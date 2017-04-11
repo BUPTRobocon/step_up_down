@@ -1,0 +1,4 @@
+Added Component: Designator=L1(CD74)
+Added Pin To Net: NetName=NetD1_K Pin=L1-1
+Added Pin To Net: NetName=VDOWN Pin=L1-2
+Added Member To Class: ClassName=step_up_down Member=Component L1 Inductor

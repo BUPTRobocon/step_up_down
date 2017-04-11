@@ -1,0 +1,15 @@
+Removed Pin From Net: NetName=VD_IN Pin=C2-1
+Removed Pin From Net: NetName=DGND Pin=C2-2
+Removed Pin From Net: NetName=VUP_IN Pin=C6-1
+Removed Pin From Net: NetName=UPGND Pin=C6-2
+Change Component DesignItemId : Designator=C2 Old DesignItemId=Cap Pol3 New DesignItemId=Cap
+Change Component DesignItemId : Designator=C6 Old DesignItemId=Cap Pol New DesignItemId=Cap
+Change Component Footprint: Designator=C6 Old Footprint=6032C New Footprint=0805C
+Change Component Footprint: Designator=C2 Old Footprint=SMD-EC-F10 New Footprint=0805C
+Change Component Comment : Designator=C2 Old Comment=Cap Pol3 New Comment=Cap
+Change Component Comment : Designator=C6 Old Comment=Cap Pol New Comment=Cap
+Change Component Description : Designator=D2 Old Description=MBRA140T3 New Description=
+Added Pin To Net: NetName=DGND Pin=C2-1
+Added Pin To Net: NetName=VD_IN Pin=C2-2
+Added Pin To Net: NetName=UPGND Pin=C6-1
+Added Pin To Net: NetName=VUP_IN Pin=C6-2

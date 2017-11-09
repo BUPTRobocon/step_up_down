@@ -1,7 +1,0 @@
-Change Component DesignItemId : Designator=C5 Old DesignItemId=Cap Pol New DesignItemId=CAP-ELE
-Change Component Footprint: Designator=C5 Old Footprint=CAP-TAN-7343/CAPD New Footprint=C_ELE
-Change Component Comment : Designator=C5 Old Comment=Cap Pol New Comment=100uF
-Added Component: Designator=C9(CAP-MLCC-0603)
-Added Pin To Net: NetName=UPGND Pin=C9-1
-Added Pin To Net: NetName=VUP Pin=C9-2
-Added Member To Class: ClassName=step_up_down Member=Component C9 Cap
